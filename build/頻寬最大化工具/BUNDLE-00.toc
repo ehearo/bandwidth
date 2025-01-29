@@ -1,0 +1,3 @@
+([('頻寬最大化工具',
+   '/Users/ehearo/Developer/Deco-Project/dist/頻寬最大化工具',
+   'EXECUTABLE')],)
